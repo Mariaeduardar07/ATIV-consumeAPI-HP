@@ -112,11 +112,11 @@
   
   /* Responsividade */
   @media (max-width: 768px) {
-    .filmGrid {
+    .characterGrid {
       justify-content: center;
     }
   
-    .filmCard {
+    .characterCard {
       width: 280px;
     }
   }
